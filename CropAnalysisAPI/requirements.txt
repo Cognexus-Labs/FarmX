@@ -1,0 +1,10 @@
+googletrans==4.0.0-rc1
+tflite-support==0.4.4
+Flask==3.0.3
+pillow==10.3.0
+google-search-results==2.4.2
+tensorflow-cpu==2.13.1
+gunicorn==21.2.0
+requests==2.31.0
+flask_cors==4.0.0
+google-generativeai==0.5.0

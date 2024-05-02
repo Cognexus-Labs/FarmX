@@ -1,0 +1,6 @@
+Flask
+gunicorn
+catboost
+pandas
+requests
+flask_cors
