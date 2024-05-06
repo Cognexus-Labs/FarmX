@@ -28,10 +28,10 @@ To get started with FarmX, follow these steps:
 
 ## Technology Stack.
 
-<!-- ![Stack](stack.png)
+![Stack](stack.png)
 
 ## Flow Chart.
-![Flow](flow_chart_farmx.png) -->
+![Flow](flow_chart_farmx.png)
 
 
 ## Contributing
