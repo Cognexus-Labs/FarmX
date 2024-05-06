@@ -1,5 +1,5 @@
 # FarmX.
-FarmX is an open-source project developed for SSA Farmers. It is a comprehensive solution that leverages machine learning and mobile technology to help farmers make data-driven decisions and optimize their farming operations.
+FarmX is an open-source project developed for Sub-Saharan African (SSA) Farmers. It is a comprehensive solution that leverages machine learning and mobile technology to help farmers make data-driven decisions and optimize their farming operations.
 
 #### Download FarmX APK - [here](https://drive.google.com/file/d/1yQP0Q0AToUHnF0cNFrlUkXEOwKk0Q57F/view?usp=drive_link)
 
