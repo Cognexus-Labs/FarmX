@@ -1,5 +1,5 @@
 # FarmX.
-FarmX is an open-source project developed for the Google AI Hackathon. It is a comprehensive solution that leverages machine learning and mobile technology to help farmers make data-driven decisions and optimize their farming operations.
+FarmX is an open-source project developed for SSA Farmers. It is a comprehensive solution that leverages machine learning and mobile technology to help farmers make data-driven decisions and optimize their farming operations.
 
 #### Download FarmX APK - [here](https://drive.google.com/file/d/1yQP0Q0AToUHnF0cNFrlUkXEOwKk0Q57F/view?usp=drive_link)
 
@@ -35,7 +35,7 @@ To get started with FarmX, follow these steps:
 
 
 ## Contributing
-After the Google Solution Challenge 2023, We will welcome contributions to FarmX from anyone interested in helping farmers optimize their operations and improve food security. To contribute, simply fork the repository and submit a pull request with your changes.
+Soon, We will welcome contributions to FarmX from anyone interested in helping farmers optimize their operations and improve food security. To contribute, simply fork the repository and submit a pull request with your changes.
 
 ## License
 FarmX is released under the MIT License. See LICENSE for details.
