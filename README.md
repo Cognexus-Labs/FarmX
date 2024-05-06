@@ -31,7 +31,7 @@ To get started with FarmX, follow these steps:
 ![Stack](stack.png)
 
 ## Flow Chart.
-![Flow](flow_chart_farmx.png)
+![Flow](farmx_gemini_stack.png)
 
 
 ## Contributing
