@@ -2,11 +2,6 @@
 
 The farmX IoT Device is designed to monitor environmental parameters for farming purposes. This README provides an overview of the project, its features, hardware setup, and instructions for getting started.
 
-
-## Google Solution Challenge 2023
-
-The farmX IoT device was developed for the Google Solution Challenge 2023. It aims to provide an innovative solution for monitoring environmental conditions in farming applications expanding the possibilities of the FarmX application toolkit.
-
 ## Stack
 
 ![Stack Image](image.jpg)
@@ -55,7 +50,7 @@ The farmX IoT device was developed for the Google Solution Challenge 2023. It ai
 
 ## Contributing
 
-Maybe after the Solution Challenge - Contributions to the farmX project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository. You can also submit pull requests with your proposed changes.
+Contributions to the farmX project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository. You can also submit pull requests with your proposed changes.
 
 ## License
 
